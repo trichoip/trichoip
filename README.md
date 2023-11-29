@@ -30,21 +30,27 @@
   </a> 
 </p>
 
-## Activity On GitHub
-   
+---
+<details>
+  <summary>:zap: Activity On GitHub</summary>
+      <a href="https://github.com/trichoip">
+        <p><img src="https://github-readme-streak-stats.herokuapp.com?user=trichoip&theme=dark&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></p> 
+        <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trichoip&locale=en&theme=dark&hide_border=true&layout=compact" alt="trichoip" /></p> 
+      </a>
+</details>
 
-<p align="center">
-   <a href="https://github.com/trichoip">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=trichoip&show_icons=true&locale=en&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark&hide_border=true&rank_icon=github" alt="trichoip" />
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=trichoip&theme=dark&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trichoip&locale=en&theme=dark&hide_border=true&layout=compact" alt="trichoip" />
-    <img src="https://github-profile-trophy.vercel.app/?username=trichoip&margin-w=15&theme=oldie&rank=SSS,SS,S,AAA,AA,A,SECRET&no-frame=true&column=-1" alt="trichoip" />
-  </a>
-</p>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+         <a href="https://github.com/trichoip">
+           <p><img src="https://github-readme-stats.vercel.app/api?username=trichoip&show_icons=true&locale=en&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark&hide_border=true&rank_icon=github" alt="trichoip" /></p> 
+           <p><img src="https://github-profile-trophy.vercel.app/?username=trichoip&margin-w=15&theme=oldie&rank=SSS,SS,S,AAA,AA,A,SECRET&no-frame=true&column=-1" alt="trichoip" /></p> 
+        </a>
+</details>
+
 
 
 ## Top Respositorys
-  <p align="center">
+  <p align="left">
      <a href="https://github.com/trichoip"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=trichoip&repo=eTransportationSystem&theme=dark&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/trichoip"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=trichoip&repo=Videography&theme=dark&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/trichoip"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=trichoip&repo=HotelBooking&theme=dark&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866" alt="github-readme-streak-stats"></a>

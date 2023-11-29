@@ -51,7 +51,7 @@
 
 ## Top Respositorys
   <p align="left">
-     <a href="https://github.com/trichoip"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=trichoip&repo=eTransportationSystem&theme=dark&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/trichoip"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=trichoip&repo=Videography&theme=dark&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/trichoip"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=trichoip&repo=HotelBooking&theme=dark&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866" alt="github-readme-streak-stats"></a>
+     <a href="https://github.com/trichoip"><img width="278" src="https://github-readme-stats-six-delta-50.vercel.app/api/pin/?username=trichoip&repo=eTransportationSystem&theme=dark&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/trichoip"><img width="278" src="https://github-readme-stats-six-delta-50.vercel.app/api/pin/?username=trichoip&repo=Videography&theme=dark&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/trichoip"><img width="278" src="https://github-readme-stats-six-delta-50.vercel.app/api/pin/?username=trichoip&repo=HotelBooking&theme=dark&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866" alt="github-readme-streak-stats"></a>
   </p>
